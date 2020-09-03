@@ -23,7 +23,7 @@ Após o download e instalação do emulador, você poderá iniciar o projeto, ac
 
 Para executar o projeto no iOS você precisa fazer download do [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
 
-De forma resumida, caso não queira ver o vídeo:
+De forma resumida:
 
 1. Acesse a AppStore e faça download do XCode.
 2. Abra o XCode e clique em `Open another project`.
