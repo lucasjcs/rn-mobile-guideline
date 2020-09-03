@@ -21,9 +21,7 @@ Após o download e instalação do emulador, você poderá iniciar o projeto, ac
 
 ### iOS
 
-Para executar o projeto no iOS precisa fazer download do [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
-
-Após realizar a instalação do XCode, siga o [tutorial de configuração](https://drive.google.com/drive/folders/1k-DV6iIuqZnE723eYAvvg5rAkjvt3yuD?usp=sharing)
+Para executar o projeto no iOS você precisa fazer download do [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
 
 De forma resumida, caso não queira ver o vídeo:
 
