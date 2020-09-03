@@ -1,4 +1,4 @@
-## Executar por IDE
+## Executar projeto por IDE
 É possível executar os projetos dentro de cada IDE (Android Studio e XCode), irei mostrar como fazer isso.
 
 ### Android:
